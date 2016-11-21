@@ -3,5 +3,7 @@
 
 ### usage
 `sudo adaway_hosts.sh deploy`
+
 `sudo adaway_hosts.sh remove`
+
 `sudo adaway_hosts.sh upgrade`
