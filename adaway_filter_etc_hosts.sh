@@ -23,7 +23,7 @@ function upgrade {
 
 case "$1" in
 	deploy)
-	deploy &
+	deploy
 		;;
 	remove)
 	remove
